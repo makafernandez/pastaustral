@@ -1,0 +1,16 @@
+/* PALETA DE COLORES
+*
+*/
+
+body {
+  font-size: 16px;
+}
+
+/* COVER */
+.jumbotron {
+  background-image: url(./../img/cover.jpg);
+  background-size: cover;
+  background-position: center 65%;
+  background-repeat: no-repeat;
+  height: 55vh;
+}
